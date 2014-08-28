@@ -1,0 +1,6 @@
+#EXTM3U
+
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=232370,CODECS="mp4a.40.2, avc1.4d4015"
+gear1_prog_index.m3u8
+
